@@ -1,0 +1,5 @@
+rootProject.name = 'module3_javacore_gradle_project'
+include 'db'
+include 'api'
+include 'service'
+
